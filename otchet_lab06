@@ -1,0 +1,8 @@
+git version 2.43.0.windows.1
+git help
+
+Создание локального репозитория
+git init <reponame>
+cd <reponame>
+
+git status вывел команду о том что hello.txt был изменен
